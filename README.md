@@ -1,3 +1,5 @@
+## Fixed by https://github.com/nestjs/graphql/pull/3932 in realease v14.0.0
+
 Simple project to produce a circular dependency problem in a typical code-first @nestjs/graphql implementation.
 
 It defines a very basic GraphQL API schema illustrating a circular pattern very common in GraphQL.
